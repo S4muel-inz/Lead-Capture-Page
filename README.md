@@ -16,7 +16,7 @@ Este repositório contém uma Landing Page responsiva para capturar leads intere
 (Adicione uma screenshot aqui)
 
 📂 Como Usar
-Clone este repositório:  Ou Abra no link da pagina github:
+Clone este repositório: https://github.com/S4muel-inz/Lead-Capture-Page Ou Abra no link da pagina github:
 
 📢 Contribuição
 Sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
